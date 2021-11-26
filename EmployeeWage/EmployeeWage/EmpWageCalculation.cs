@@ -33,6 +33,6 @@ namespace EmployeeWage
             Console.WriteLine("Part Time Employee Wage:-" + Emp_Wage);
             return Emp_Wage;
         }
-        
+
     }
 }
